@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Pedro Miguel from Murcia<br>- 📚 I'm currently learning <br>Full Stack Development con Rock{TheCode}.</p>
+<p align="left">I'm Pedro Miguel from Bullas - Murcia<br>- 📚 I'm currently learning Full Stack Development con Rock{TheCode}.</p>
 
 ###
 
